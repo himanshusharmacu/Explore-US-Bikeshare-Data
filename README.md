@@ -1,5 +1,17 @@
 # Explore-US-Bikeshare-Data
-Overview In this project, you will make use of Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. You will write code to import the data and answer interesting questions about it by computing descriptive statistics. You will also write a script that takes in raw input to create an interactive experience in the terminal to present these statistics.  
+
+How to run the project ?
+
+Download all the files and extract the zip files to get the .csv files.
+
+Open cmd command line or jupyter notebook.
+
+Run the python code and enjoy ! 
+
+
+Overview In this project->
+
+you will make use of Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. You will write code to import the data and answer interesting questions about it by computing descriptive statistics. You will also write a script that takes in raw input to create an interactive experience in the terminal to present these statistics.  
 
 What Software Do I Need? 
 
